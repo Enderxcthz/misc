@@ -53,3 +53,9 @@ With an extremely smooth user interface, Hydroxide is easy to navigate and utili
 * ClosureSpy
     * Log calls of closures
     * View general information of closures (location, protos, constants, etc.)
+    
+
+
+Join the community discord server [here](https://discord.gg/DJxBwAX).
+    
+:warning: **This is not the finished product, bugs are to be expected.**
