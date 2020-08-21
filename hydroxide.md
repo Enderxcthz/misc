@@ -2,6 +2,18 @@
   <img src="https://camo.githubusercontent.com/96f209b7bb27dce3f8b7da5d6d216e601eebb25b/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3633333437323432393931373939353033382f3732323134333733303530303530313533342f487964726f786964655f4c6f676f2e706e67">
   <br><br>
   <b>Hydroxide - General purpose pen-testing tool for games on the Roblox Engine.</b>
+  
+  ```lua
+local owner = "Upbolt"
+local branch = "revision"
+
+local function webImport(file)
+    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua"):format(owner, branch, file)), file .. '.lua')()
+end
+
+webImport("init")
+webImport("ui/main")
+```
 </p>
 
 ---
