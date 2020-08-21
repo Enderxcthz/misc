@@ -27,4 +27,29 @@ The purpose of this project is to create an all-in-one multi use pentesting tool
 
 ### *Power in simplicity*...
 
-With an extremely smooth user interface, Hydroxide is easy to navigate and utilise as you familiarise yourself with the layout.
+With an extremely smooth user interface, Hydroxide is easy to navigate and utilise as you familiarise yourself with the layout.                                      
+**Example of Upvalue Modification:** https://i.gyazo.com/63afdd764cdca533af5ebca843217a7e.gif                                                                      
+**Example of Remote Spy:** https://i.gyazo.com/aed8690c3161468ca9a3156dfdb665e2.gif
+
+### Current Features (v = c.1)
+
+* Upvalue Scanner
+    * View/Modify Upvalues
+    * View first-level values in table upvalues
+    * View information of closure
+* Constant Scanner
+    * View/Modify Constants
+    * View information of closure
+* Script Scanner
+    * View general information of scripts (source, protos, constants, etc.)
+    * Retrieve all protos found in GC
+* Module Scanner
+    * View general information of modules (return value, source, protos, constants, etc.)
+    * Retrieve all protos found in GC
+* RemoteSpy
+    * Log calls of remote objects (RemoteEvent, RemoteFunction, BindableEvent, BindableFunction)
+    * Ignore/Block calls based on parameters passed
+    * Traceback calling function/closure
+* ClosureSpy
+    * Log calls of closures
+    * View general information of closures (location, protos, constants, etc.)
