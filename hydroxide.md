@@ -15,4 +15,4 @@ The purpose of this project is to create an all-in-one multi use pentesting tool
 
 ### *Power in simplicity*...
 
-[![Example of upvalue modification](https://cdn.discordapp.com/attachments/702965177288491018/746434397246587010/unknown.png)](https://i.gyazo.com/63afdd764cdca533af5ebca843217a7e.gif)
+With an extremely smooth user interface, Hydroxide is easy to navigate and utilise as you familiarise yourself with the layout.
