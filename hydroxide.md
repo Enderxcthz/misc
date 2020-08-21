@@ -6,9 +6,13 @@
 
 ---
 
-### Taking ROBLOX exploiting to the next level.
+### *Taking ROBLOX exploiting to the next level...*
 
 ![alt text](https://camo.githubusercontent.com/4cdcb3f0756ded1323150d6807ea9d507799ca60/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3639343732363633363133383030343539332f3734323430383534363333343933333030322f756e6b6e6f776e2e706e67 "In-game screenshot of UI")
 
 Hydroxide is a project by **hush**, exploiting community expert, dedicated to expanding this open-sourced project and many others.                       
-The purpose of this project is to create an all-in-one multi use pentesting tool, universal to all games on the Roblox Platform.
+The purpose of this project is to create an all-in-one multi use pentesting tool, universal to all games on the Roblox Platform.                                  
+
+### *Power in simplicity*...
+
+[![Example of upvalue modification](https://cdn.discordapp.com/attachments/702965177288491018/746434397246587010/unknown.png)](https://i.gyazo.com/63afdd764cdca533af5ebca843217a7e.gif)
